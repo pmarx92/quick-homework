@@ -1,0 +1,21 @@
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+li {
+  list-style-type: none;
+}
+.dead {
+    background-color: red;
+  }
+.alive {
+  background-color: green;
+}
+.unknown {
+  background-color: grey;
+}
